@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Istanbul</string>
+    <string name="navigation_drawer_open">navigation_open</string>
+    <string name="navigation_drawer_close">navigation_close</string>
+    <string name="flag">Flag Of Istanbul</string>
+
+    <string name="details_prince">Ertuğrul Osman (Ottoman Turkish: ارطغرل عثمان‎), also known as Osman Ertuğrul Osmanoğlu with a surname as required by the Turkish Republic (18 August 1912 – 23 September 2009), was an Imperial Prince (or Şehzade) of the Ottoman Empire and the 43rd Head of the Imperial House of Osman from 1994 until his death.
+        \nHad the Ottoman Empire not been dissolved and succeeded by the Republic of Turkey, he would have become caliph and Grand Sultan Osman V.
+        \nHe was also known as Grand Sultan Ertuğrul II in reference to Ertuğrul, the father of Osman I.  </string>
+
+
+
+
+    <string name="privacy_text"> ArtisanApps built the Istanbul app as
+                  a Free app. This SERVICE is provided by
+                  ArtisanApps at no cost and is intended for use as
+                  is.</string>
+    <string name="details_flag">The flag of Turkey, officially the Turkish flag[2] (Turkish: Türk bayrağı) is a red flag featuring a white star and crescent.
+        \n\nThe flag is often called al bayrak (the red flag), and is referred to as al sancak (the red banner) in the Turkish national anthem.
+        The current design of the Turkish flag is directly derived from the late Ottoman flag, which had been adopted in the late 18th century and acquired its final form in 1844.
+        \n\nThe measures, geometric proportions, and exact tone of red of the flag of Turkey were legally standardized with the Turkish Flag Law on 29 May 1936.[3] </string>
+
+
+</resources>
